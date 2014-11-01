@@ -1,0 +1,26 @@
+[
+    {
+        "category": "File Management",
+        "extensions": [
+            {
+                "name": "Octotree",
+                "description": "Browser extensions to display GitHub code in tree format.",
+                "url": "https://github.com/buunguyen/octotree",
+                "browsers": ["Chrome", "Firefox", "Opera", "Safari"],
+                "support_enterprise": true
+            }
+        ]
+    },
+    {
+        "category": "Source View Enhancement",
+        "extensions": [
+            {
+                "name": "GitHub Highlight Selected",
+                "description": "Chrome extension for highlighting selected word in GitHub source view like Sublime Text",
+                "url": "https://github.com/Nuclides/github-highlight-selected",
+                "browsers": ["Chrome"],
+                "support_enterprise": false
+            }
+        ]
+    }
+]
