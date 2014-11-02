@@ -1,6 +1,6 @@
 [
     {
-        "category": "File Management",
+        "category": "New Feature",
         "extensions": [
             {
                 "name": "Octotree",
@@ -8,11 +8,18 @@
                 "url": "https://github.com/buunguyen/octotree",
                 "browsers": ["Chrome", "Firefox", "Opera", "Safari"],
                 "support_enterprise": true
+            },
+            {
+                "name": "ZenHub",
+                "description": "Project management suite that works natively within GitHub.",
+                "url": "https://www.zenhub.io",
+                "browsers": ["Chrome"],
+                "support_enterprise": false
             }
         ]
     },
     {
-        "category": "Source View Enhancement",
+        "category": "View Enhancement",
         "extensions": [
             {
                 "name": "GitHub Highlight Selected",
@@ -27,16 +34,11 @@
                 "url": "https://github.com/danielribeiro/github-diff-highlight-extension",
                 "browsers": ["Chrome"],
                 "support_enterprise": false
-            }
-        ]
-    },
-    {
-        "category": "New Feature",
-        "extensions": [
+            },
             {
-                "name": "ZenHub",
-                "description": "Project management suite that works natively within GitHub.",
-                "url": "https://www.zenhub.io",
+                "name": "Sourcegraph",
+                "description": "Instant documentation tooltips and jump-to-definition links for code on GitHub.",
+                "url": "https://chrome.google.com/webstore/detail/sourcegraph/dgjhfomjieaadpoljlnidmbgkdffpack",
                 "browsers": ["Chrome"],
                 "support_enterprise": false
             }
@@ -46,7 +48,7 @@
         "category": "Eyecandy",
         "extensions": [
             {
-                "name": "GitHub Highlight Selected",
+                "name": "Isometric Contributions",
                 "description": "Render an isometric pixel art version of your contribution graph.",
                 "url": "https://github.com/jasonlong/isometric-contributions",
                 "browsers": ["Chrome"],
