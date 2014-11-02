@@ -20,6 +20,37 @@
                 "url": "https://github.com/Nuclides/github-highlight-selected",
                 "browsers": ["Chrome"],
                 "support_enterprise": false
+            },
+            {
+                "name": "GH Diff Highlight",
+                "description": "Syntax highlight for diffs on GitHub.",
+                "url": "https://github.com/danielribeiro/github-diff-highlight-extension",
+                "browsers": ["Chrome"],
+                "support_enterprise": false
+            }
+        ]
+    },
+    {
+        "category": "New Feature",
+        "extensions": [
+            {
+                "name": "ZenHub",
+                "description": "Project management suite that works natively within GitHub.",
+                "url": "https://www.zenhub.io",
+                "browsers": ["Chrome"],
+                "support_enterprise": false
+            }
+        ]
+    },
+    {
+        "category": "Eyecandy",
+        "extensions": [
+            {
+                "name": "GitHub Highlight Selected",
+                "description": "Render an isometric pixel art version of your contribution graph.",
+                "url": "https://github.com/jasonlong/isometric-contributions",
+                "browsers": ["Chrome"],
+                "support_enterprise": false
             }
         ]
     }
