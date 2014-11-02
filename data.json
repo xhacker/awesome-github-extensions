@@ -36,9 +36,23 @@
                 "support_enterprise": false
             },
             {
+                "name": "GitHub Linker",
+                "description": "Link dependencies in a package or bower file to their GitHub page.",
+                "url": "https://github.com/stefanbuck/github-linker",
+                "browsers": ["Chrome"],
+                "support_enterprise": false
+            },
+            {
                 "name": "Sourcegraph",
                 "description": "Instant documentation tooltips and jump-to-definition links for code on GitHub.",
                 "url": "https://chrome.google.com/webstore/detail/sourcegraph/dgjhfomjieaadpoljlnidmbgkdffpack",
+                "browsers": ["Chrome"],
+                "support_enterprise": false
+            },
+            {
+                "name": "GitHub TOC",
+                "description": "Generate TOC (Table of Content) for GitHub readme and GitHub Wiki.",
+                "url": "https://github.com/summerblue/github-toc",
                 "browsers": ["Chrome"],
                 "support_enterprise": false
             }

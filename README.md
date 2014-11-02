@@ -11,7 +11,9 @@ A curated list of awesome browser extensions for GitHub. Inspired by [awesome-py
 
 * [GitHub Highlight Selected](https://github.com/Nuclides/github-highlight-selected) <a href="https://github.com/Nuclides/github-highlight-selected"><img alt="Support Chrome" src="icons/Chrome.png" width="16"></a> - Chrome extension for highlighting selected word in GitHub source view like Sublime Text.
 * [GH Diff Highlight](https://github.com/danielribeiro/github-diff-highlight-extension) <a href="https://github.com/danielribeiro/github-diff-highlight-extension"><img alt="Support Chrome" src="icons/Chrome.png" width="16"></a> - Syntax highlight for diffs on GitHub.
+* [GitHub Linker](https://github.com/stefanbuck/github-linker) <a href="https://github.com/stefanbuck/github-linker"><img alt="Support Chrome" src="icons/Chrome.png" width="16"></a> - Link dependencies in a package or bower file to their GitHub page.
 * [Sourcegraph](https://chrome.google.com/webstore/detail/sourcegraph/dgjhfomjieaadpoljlnidmbgkdffpack) <a href="https://chrome.google.com/webstore/detail/sourcegraph/dgjhfomjieaadpoljlnidmbgkdffpack"><img alt="Support Chrome" src="icons/Chrome.png" width="16"></a> - Instant documentation tooltips and jump-to-definition links for code on GitHub.
+* [GitHub TOC](https://github.com/summerblue/github-toc) <a href="https://github.com/summerblue/github-toc"><img alt="Support Chrome" src="icons/Chrome.png" width="16"></a> - Generate TOC (Table of Content) for GitHub readme and GitHub Wiki.
 
 ## Eyecandy
 
