@@ -4,16 +4,9 @@ A curated list of awesome browser extensions for GitHub. Inspired by [awesome-py
 
 ## File Management
 
-* <a href="https://github.com/buunguyen/octotree">Octotree
-<img alt="Support Chrome" src="icons/Chrome.png" width="16">
-<img alt="Support Firefox" src="icons/Firefox.png" width="16">
-<img alt="Support Opera" src="icons/Opera.png" width="16">
-<img alt="Support Safari" src="icons/Safari.png" width="16">
-</a> - Browser extensions to display GitHub code in tree format.
+* [Octotree](https://github.com/buunguyen/octotree) <a href="https://github.com/buunguyen/octotree"><img alt="Support Chrome" src="icons/Chrome.png" width="16"><img alt="Support Firefox" src="icons/Firefox.png" width="16"><img alt="Support Opera" src="icons/Opera.png" width="16"><img alt="Support Safari" src="icons/Safari.png" width="16"></a> - Browser extensions to display GitHub code in tree format.
 
 ## Source View Enhancement
 
-* <a href="https://github.com/Nuclides/github-highlight-selected">GitHub Highlight Selected
-<img alt="Support Chrome" src="icons/Chrome.png" width="16">
-</a> - Chrome extension for highlighting selected word in GitHub source view like Sublime Text.
+* [GitHub Highlight Selected](https://github.com/Nuclides/github-highlight-selected) <a href="https://github.com/Nuclides/github-highlight-selected"><img alt="Support Chrome" src="icons/Chrome.png" width="16"></a> - Chrome extension for highlighting selected word in GitHub source view like Sublime Text.
 

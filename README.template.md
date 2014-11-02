@@ -6,11 +6,7 @@ A curated list of awesome browser extensions for GitHub. Inspired by [awesome-py
 ## {{ category.category }}
 
 {% for extension in category.extensions %}
-* <a href="{{ extension.url }}">{{ extension.name }}
-{% for browser in extension.browsers %}
-<img alt="Support {{ browser }}" src="icons/{{ browser }}.png" width="16">
-{% endfor %}
-</a> - {{ extension.description }}
+* [{{ extension.name }}]({{ extension.url }}) <a href="{{ extension.url }}">{% for browser in extension.browsers %}<img alt="Support {{ browser }}" src="icons/{{ browser }}.png" width="16">{% endfor %}</a> - {{ extension.description }}
 {% endfor %}
 
 {% endfor %}
