@@ -8,8 +8,9 @@ A curated list of awesome browser extensions for GitHub. Inspired by [awesome-py
 {% for extension in category.extensions %}
 * [{{ extension.name }}]({{ extension.url }})
 {% for browser in extension.browsers %}
-![Support {{ browser }}](icons/{{ browser }}.png)
+<img alt="Support {{ browser }}" src="icons/{{ browser }}.png" width="16">
 {% endfor %}
+- {{ extension.description }}
 {% endfor %}
 
 {% endfor %}

@@ -16,7 +16,7 @@
         "extensions": [
             {
                 "name": "GitHub Highlight Selected",
-                "description": "Chrome extension for highlighting selected word in GitHub source view like Sublime Text",
+                "description": "Chrome extension for highlighting selected word in GitHub source view like Sublime Text.",
                 "url": "https://github.com/Nuclides/github-highlight-selected",
                 "browsers": ["Chrome"],
                 "support_enterprise": false

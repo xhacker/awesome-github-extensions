@@ -5,13 +5,15 @@ A curated list of awesome browser extensions for GitHub. Inspired by [awesome-py
 ## File Management
 
 * [Octotree](https://github.com/buunguyen/octotree)
-![Support Chrome](icons/Chrome.png)
-![Support Firefox](icons/Firefox.png)
-![Support Opera](icons/Opera.png)
-![Support Safari](icons/Safari.png)
+<img alt="Support Chrome" src="icons/Chrome.png" width="16">
+<img alt="Support Firefox" src="icons/Firefox.png" width="16">
+<img alt="Support Opera" src="icons/Opera.png" width="16">
+<img alt="Support Safari" src="icons/Safari.png" width="16">
+- Browser extensions to display GitHub code in tree format.
 
 ## Source View Enhancement
 
 * [GitHub Highlight Selected](https://github.com/Nuclides/github-highlight-selected)
-![Support Chrome](icons/Chrome.png)
+<img alt="Support Chrome" src="icons/Chrome.png" width="16">
+- Chrome extension for highlighting selected word in GitHub source view like Sublime Text.
 
