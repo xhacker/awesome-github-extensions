@@ -81,6 +81,13 @@
                 "url": "https://github.com/thecodejunkie/github.expandinizr",
                 "browsers": ["Chrome"],
                 "support_enterprise": false
+            },
+            {
+                "name": "Avatars for GitHub",
+                "description": "Displaying user avatars in github news feed page.",
+                "url": "https://chrome.google.com/webstore/detail/avatars-for-github/pgjmdbklnfklcjfbonjfkdhaonlfogbb",
+                "browsers": ["Chrome"],
+                "support_enterprise": false
             }
         ]
     }

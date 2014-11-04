@@ -20,4 +20,5 @@ A curated list of awesome browser extensions for GitHub. Inspired by [awesome-py
 
 * [Isometric Contributions](https://github.com/jasonlong/isometric-contributions) <a href="https://github.com/jasonlong/isometric-contributions"><img alt="Support Chrome" src="icons/Chrome.png" width="16"><img alt="Support Safari" src="icons/Safari.png" width="16"></a> - Render an isometric pixel art version of your contribution graph.
 * [GitHub.Expandinizr](https://github.com/thecodejunkie/github.expandinizr) <a href="https://github.com/thecodejunkie/github.expandinizr"><img alt="Support Chrome" src="icons/Chrome.png" width="16"></a> - Removes the truncating of file and directory names in the repository browser. Fully expands the website, with breakpoints at 1400px, 1600px and 1800px.
+* [Avatars for GitHub](https://chrome.google.com/webstore/detail/avatars-for-github/pgjmdbklnfklcjfbonjfkdhaonlfogbb) <a href="https://chrome.google.com/webstore/detail/avatars-for-github/pgjmdbklnfklcjfbonjfkdhaonlfogbb"><img alt="Support Chrome" src="icons/Chrome.png" width="16"></a> - Displaying user avatars in github news feed page.
 
