@@ -6,6 +6,7 @@ A curated list of awesome browser extensions for GitHub. Inspired by [awesome-py
 
 * [Octotree](https://github.com/buunguyen/octotree) <a href="https://github.com/buunguyen/octotree"><img alt="Support Chrome" src="icons/Chrome.png" width="16"><img alt="Support Firefox" src="icons/Firefox.png" width="16"><img alt="Support Opera" src="icons/Opera.png" width="16"><img alt="Support Safari" src="icons/Safari.png" width="16"></a> - Browser extensions to display GitHub code in tree format.
 * [ZenHub](https://www.zenhub.io) <a href="https://www.zenhub.io"><img alt="Support Chrome" src="icons/Chrome.png" width="16"></a> - Project management suite that works natively within GitHub.
+* [GitHub Notifier](https://github.com/sindresorhus/github-notifier-chrome) <a href="https://github.com/sindresorhus/github-notifier-chrome"><img alt="Support Chrome" src="icons/Chrome.png" width="16"><img alt="Support Firefox" src="icons/Firefox.png" width="16"><img alt="Support Opera" src="icons/Opera.png" width="16"><img alt="Support Safari" src="icons/Safari.png" width="16"></a> - Displays your GitHub notifications unread count on toolbar.
 * [LGTM](https://chrome.google.com/webstore/detail/lgtm/ihckpnhmmfhihijdjnnjfjogoajgdklf) <a href="https://chrome.google.com/webstore/detail/lgtm/ihckpnhmmfhihijdjnnjfjogoajgdklf"><img alt="Support Chrome" src="icons/Chrome.png" width="16"></a> - Click the icon on browser and an interesting LGTM will be copied to your clipboard as markdown format.
 
 ## View Enhancement

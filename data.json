@@ -17,6 +17,13 @@
                 "support_enterprise": false
             },
             {
+                "name": "GitHub Notifier",
+                "description": "Displays your GitHub notifications unread count on toolbar.",
+                "url": "https://github.com/sindresorhus/github-notifier-chrome",
+                "browsers": ["Chrome", "Firefox", "Opera", "Safari"],
+                "support_enterprise": true
+            },
+            {
                 "name": "LGTM",
                 "description": "Click the icon on browser and an interesting LGTM will be copied to your clipboard as markdown format.",
                 "url": "https://chrome.google.com/webstore/detail/lgtm/ihckpnhmmfhihijdjnnjfjogoajgdklf",
