@@ -25,7 +25,7 @@
                 "name": "GitHub Highlight Selected",
                 "description": "Chrome extension for highlighting selected word in GitHub source view like Sublime Text.",
                 "url": "https://github.com/Nuclides/github-highlight-selected",
-                "browsers": ["Chrome"],
+                "browsers": ["Chrome", "Safari"],
                 "support_enterprise": false
             },
             {
@@ -65,7 +65,7 @@
                 "name": "Isometric Contributions",
                 "description": "Render an isometric pixel art version of your contribution graph.",
                 "url": "https://github.com/jasonlong/isometric-contributions",
-                "browsers": ["Chrome"],
+                "browsers": ["Chrome", "Safari"],
                 "support_enterprise": false
             }
         ]
