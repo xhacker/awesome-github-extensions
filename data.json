@@ -74,6 +74,13 @@
                 "url": "https://github.com/jasonlong/isometric-contributions",
                 "browsers": ["Chrome", "Safari"],
                 "support_enterprise": false
+            },
+            {
+                "name": "GitHub.Expandinizr",
+                "description": "Removes the truncating of file and directory names in the repository browser. Fully expands the website, with breakpoints at 1400px, 1600px and 1800px.",
+                "url": "https://github.com/thecodejunkie/github.expandinizr",
+                "browsers": ["Chrome"],
+                "support_enterprise": false
             }
         ]
     }
