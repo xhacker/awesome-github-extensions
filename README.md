@@ -11,6 +11,7 @@ A curated list of awesome browser extensions for GitHub. Inspired by [awesome-py
 
 ## View Enhancement
 
+* [Lovely forks](https://github.com/musically-ut/lovely-forks) <a href="https://github.com/musically-ut/lovely-forks"><img alt="Support Chrome" src="icons/Chrome.png" width="16"><img alt="Support Firefox" src="icons/Firefox.png" width="16"></a> - Firefox/Chrome extension for showing notable forks of repositories.
 * [GitHub Highlight Selected](https://github.com/Nuclides/github-highlight-selected) <a href="https://github.com/Nuclides/github-highlight-selected"><img alt="Support Chrome" src="icons/Chrome.png" width="16"><img alt="Support Safari" src="icons/Safari.png" width="16"></a> - Chrome extension for highlighting selected word in GitHub source view like Sublime Text.
 * [GitHub Linker](https://github.com/stefanbuck/github-linker) <a href="https://github.com/stefanbuck/github-linker"><img alt="Support Chrome" src="icons/Chrome.png" width="16"></a> - Link dependencies in a package or bower file to their GitHub page.
 * [Sourcegraph](https://chrome.google.com/webstore/detail/sourcegraph/dgjhfomjieaadpoljlnidmbgkdffpack) <a href="https://chrome.google.com/webstore/detail/sourcegraph/dgjhfomjieaadpoljlnidmbgkdffpack"><img alt="Support Chrome" src="icons/Chrome.png" width="16"></a> - Instant documentation tooltips and jump-to-definition links for code on GitHub.

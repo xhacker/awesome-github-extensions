@@ -36,6 +36,13 @@
         "category": "View Enhancement",
         "extensions": [
             {
+                "name": "Lovely forks",
+                "description": "Firefox/Chrome extension for showing notable forks of repositories.",
+                "url": "https://github.com/musically-ut/lovely-forks",
+                "browsers": ["Chrome", "Firefox"],
+                "support_enterprise": false
+            },
+            {
                 "name": "GitHub Highlight Selected",
                 "description": "Chrome extension for highlighting selected word in GitHub source view like Sublime Text.",
                 "url": "https://github.com/Nuclides/github-highlight-selected",
