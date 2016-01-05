@@ -19,7 +19,7 @@
             {
                 "name": "GitHub Notifier",
                 "description": "Displays your GitHub notifications unread count on toolbar.",
-                "url": "https://github.com/sindresorhus/github-notifier-chrome",
+                "url": "https://github.com/sindresorhus/notifier-for-github-chrome",
                 "browsers": ["Chrome", "Firefox", "Opera", "Safari"],
                 "support_enterprise": true
             },
@@ -52,7 +52,7 @@
             {
                 "name": "GitHub Linker",
                 "description": "Link dependencies in a package or bower file to their GitHub page.",
-                "url": "https://github.com/stefanbuck/github-linker",
+                "url": "https://github.com/octo-linker/chrome-extension",
                 "browsers": ["Chrome"],
                 "support_enterprise": false
             },
