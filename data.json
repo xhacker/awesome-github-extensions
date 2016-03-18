@@ -36,6 +36,13 @@
                 "url": "https://github.com/notwaldorf/github-canned-responses",
                 "browsers": ["Chrome", "Firefox"],
                 "support_enterprise": false
+            },
+            {
+                "name": "GitHub Awesome Autocomplete",
+                "description": "Add instant search capabilities to GitHub’s search bar. Auto-complete repos, users, and issues.",
+                "url": "https://github.com/algolia/github-awesome-autocomplete",
+                "browsers": ["Chrome", "Firefox", "Safari"],
+                "support_enterprise": false
             }
         ]
     },
