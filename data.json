@@ -29,6 +29,13 @@
                 "url": "https://chrome.google.com/webstore/detail/lgtm/ihckpnhmmfhihijdjnnjfjogoajgdklf",
                 "browsers": ["Chrome"],
                 "support_enterprise": true
+            },
+            {
+                "name": "GitHub Canned Responses",
+                "description": "Adds a little “canned response” button inside the comment editing view, that allows you to filter through existing canned responses and add them to the comment.",
+                "url": "https://github.com/notwaldorf/github-canned-responses",
+                "browsers": ["Chrome", "Firefox"],
+                "support_enterprise": false
             }
         ]
     },

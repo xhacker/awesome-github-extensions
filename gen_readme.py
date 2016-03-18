@@ -13,4 +13,4 @@ if __name__ == "__main__":
     template = env.get_template("README.template.md")
 
     with open("README.md", "w") as f:
-        f.write(template.render(data=data))
+        f.write(template.render(data=data).encode('utf8'))
