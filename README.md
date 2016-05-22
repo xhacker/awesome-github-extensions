@@ -10,6 +10,7 @@ A curated list of awesome browser extensions for GitHub. Inspired by [awesome-py
 * [LGTM](https://chrome.google.com/webstore/detail/lgtm/ihckpnhmmfhihijdjnnjfjogoajgdklf) <a href="https://chrome.google.com/webstore/detail/lgtm/ihckpnhmmfhihijdjnnjfjogoajgdklf"><img alt="Support Chrome" src="icons/Chrome.png" width="16"></a> - Click the icon on browser and an interesting LGTM will be copied to your clipboard as markdown format.
 * [GitHub Canned Responses](https://github.com/notwaldorf/github-canned-responses) <a href="https://github.com/notwaldorf/github-canned-responses"><img alt="Support Chrome" src="icons/Chrome.png" width="16"><img alt="Support Firefox" src="icons/Firefox.png" width="16"></a> - Adds a little “canned response” button inside the comment editing view, that allows you to filter through existing canned responses and add them to the comment.
 * [GitHub Awesome Autocomplete](https://github.com/algolia/github-awesome-autocomplete) <a href="https://github.com/algolia/github-awesome-autocomplete"><img alt="Support Chrome" src="icons/Chrome.png" width="16"><img alt="Support Firefox" src="icons/Firefox.png" width="16"><img alt="Support Safari" src="icons/Safari.png" width="16"></a> - Add instant search capabilities to GitHub’s search bar. Auto-complete repos, users, and issues.
+* * [GitHub Extended](https://github.com/onmyway133/github-extended) <a href="https://github.com/algolia/github-awesome-autocomplete"></a> - A Chrome extension to discover more repositories
 
 ## View Enhancement
 
