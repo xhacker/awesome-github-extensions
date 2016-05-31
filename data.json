@@ -3,6 +3,13 @@
         "category": "New Feature",
         "extensions": [
             {
+                "name": "GitHub Extended",
+                "description": ":octocat: A Chrome extension to discover more repositories",
+                "url": "https://github.com/onmyway133/github-extended",
+                "browsers": ["Chrome"],
+                "support_enterprise": true
+            },
+            {
                 "name": "Octotree",
                 "description": "Browser extensions to display GitHub code in tree format.",
                 "url": "https://github.com/buunguyen/octotree",
