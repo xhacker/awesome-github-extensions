@@ -83,6 +83,13 @@
                 "url": "https://github.com/summerblue/github-toc",
                 "browsers": ["Chrome"],
                 "support_enterprise": false
+            },
+            {
+                "name": "GitHub Repo Size",
+                "description": "Automatically adds repository size to GitHub’s repository summary.",
+                "url": "https://github.com/harshjv/github-repo-size",
+                "browsers": ["Chrome"],
+                "support_enterprise": true
             }
         ]
     },
