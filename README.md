@@ -18,7 +18,7 @@ A curated list of awesome browser extensions for GitHub. Inspired by [awesome-py
 * [Octo-Linker](https://github.com/octo-linker/chrome-extension) <a href="https://github.com/octo-linker/chrome-extension"><img alt="Support Chrome" src="icons/Chrome.png" width="16"></a> - Allows you to navigate across files and packages on GitHub.com with ease.
 * [Sourcegraph](https://chrome.google.com/webstore/detail/sourcegraph/dgjhfomjieaadpoljlnidmbgkdffpack) <a href="https://chrome.google.com/webstore/detail/sourcegraph/dgjhfomjieaadpoljlnidmbgkdffpack"><img alt="Support Chrome" src="icons/Chrome.png" width="16"></a> - Instant documentation tooltips and jump-to-definition links for code on GitHub.
 * [GitHub TOC](https://github.com/summerblue/github-toc) <a href="https://github.com/summerblue/github-toc"><img alt="Support Chrome" src="icons/Chrome.png" width="16"></a> - Generate TOC (Table of Content) for GitHub readme and GitHub Wiki.
-* [GitHub Repo Size](https://github.com/harshjv/github-repo-size) <a href="https://github.com/harshjv/github-repo-size"><img alt="Support Chrome" src="icons/Chrome.png" width="16"></a> - Automatically adds repository size to GitHub's repository summary.
+* [GitHub Repo Size](https://github.com/harshjv/github-repo-size) <a href="https://github.com/harshjv/github-repo-size"><img alt="Support Chrome" src="icons/Chrome.png" width="16"></a> - Automatically adds repository size to GitHub’s repository summary.
 
 ## Eyecandy
 
