@@ -19,6 +19,7 @@ A curated list of awesome browser extensions for GitHub. Inspired by [awesome-py
 * [Sourcegraph](https://chrome.google.com/webstore/detail/sourcegraph/dgjhfomjieaadpoljlnidmbgkdffpack) <a href="https://chrome.google.com/webstore/detail/sourcegraph/dgjhfomjieaadpoljlnidmbgkdffpack"><img alt="Support Chrome" src="icons/Chrome.png" width="16"></a> - Instant documentation tooltips and jump-to-definition links for code on GitHub.
 * [GitHub TOC](https://github.com/summerblue/github-toc) <a href="https://github.com/summerblue/github-toc"><img alt="Support Chrome" src="icons/Chrome.png" width="16"></a> - Generate TOC (Table of Content) for GitHub readme and GitHub Wiki.
 * [GitHub Repo Size](https://github.com/harshjv/github-repo-size) <a href="https://github.com/harshjv/github-repo-size"><img alt="Support Chrome" src="icons/Chrome.png" width="16"></a> - Automatically adds repository size to GitHub’s repository summary.
+* [GitHub Extended](https://github.com/onmyway133/github-extended) <a href="https://github.com/onmyway133/github-extended"><img alt="Support Chrome" src="icons/Chrome.png" width="16"></a> - Discover more repositories in profile page.
 
 ## Eyecandy
 

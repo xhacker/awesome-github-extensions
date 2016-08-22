@@ -90,6 +90,13 @@
                 "url": "https://github.com/harshjv/github-repo-size",
                 "browsers": ["Chrome"],
                 "support_enterprise": true
+            },
+            {
+                "name": "GitHub Extended",
+                "description": "Discover more repositories in profile page.",
+                "url": "https://github.com/onmyway133/github-extended",
+                "browsers": ["Chrome"],
+                "support_enterprise": false
             }
         ]
     },
