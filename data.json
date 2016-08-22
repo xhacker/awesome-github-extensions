@@ -43,6 +43,13 @@
                 "url": "https://github.com/algolia/github-awesome-autocomplete",
                 "browsers": ["Chrome", "Firefox", "Safari"],
                 "support_enterprise": false
+            },
+            {
+                "name": "News Feed for GitHub",
+                "description": "GitHub news feed notifications directly in the browser.",
+                "url": "https://github.com/julmot/news-feed-for-github",
+                "browsers": ["Chrome", "Firefox"],
+                "support_enterprise": false
             }
         ]
     },
