@@ -130,6 +130,20 @@
                 "url": "https://chrome.google.com/webstore/detail/avatars-for-github/pgjmdbklnfklcjfbonjfkdhaonlfogbb",
                 "browsers": ["Chrome"],
                 "support_enterprise": false
+            },
+            {
+                "name": "GitHub-Dark-Script",
+                "description": "GitHub Dark in userscript form, with a settings panel.",
+                "url": "https://github.com/StylishThemes/GitHub-Dark-Script",
+                "browsers": ["Userscript"],
+                "support_enterprise": false
+            },
+            {
+                "name": "GitHub Custom Emojis",
+                "description": "GThis userscript allows you to use and add custom emojis to GitHub.",
+                "url": "https://github.com/StylishThemes/GitHub-Custom-Emojis",
+                "browsers": ["Userscript"],
+                "support_enterprise": false
             }
         ]
     }
