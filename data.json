@@ -64,6 +64,13 @@
         "category": "View Enhancement",
         "extensions": [
             {
+                "name": "GitHub Custom Tab Size",
+                "description": "Set custom tab size for code view on GitHub.com.",
+                "url": "https://github.com/lukechilds/github-custom-tab-size",
+                "browsers": ["Chrome"],
+                "support_enterprise": false
+            },
+            {
                 "name": "Lovely forks",
                 "description": "Firefox/Chrome extension for showing notable forks of repositories.",
                 "url": "https://github.com/musically-ut/lovely-forks",
