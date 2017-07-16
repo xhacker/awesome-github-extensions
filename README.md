@@ -15,6 +15,7 @@ A curated list of awesome browser extensions for GitHub. Inspired by [awesome-py
 
 ## View Enhancement
 
+* [GitHub Custom Tab Size](https://github.com/lukechilds/github-custom-tab-size) <a href="https://github.com/lukechilds/github-custom-tab-size"><img alt="Supports Chrome" title="Chrome" src="icons/Chrome.png" width="16"></a> - Set custom tab size for code view on GitHub.com.
 * [Lovely forks](https://github.com/musically-ut/lovely-forks) <a href="https://github.com/musically-ut/lovely-forks"><img alt="Supports Chrome" title="Chrome" src="icons/Chrome.png" width="16"><img alt="Supports Firefox" title="Firefox" src="icons/Firefox.png" width="16"></a> - Firefox/Chrome extension for showing notable forks of repositories.
 * [GitHub Highlight Selected](https://github.com/Nuclides/github-highlight-selected) <a href="https://github.com/Nuclides/github-highlight-selected"><img alt="Supports Chrome" title="Chrome" src="icons/Chrome.png" width="16"><img alt="Supports Safari" title="Safari" src="icons/Safari.png" width="16"></a> - Chrome extension for highlighting selected word in GitHub source view like Sublime Text.
 * [Octo-Linker](https://github.com/octo-linker/chrome-extension) <a href="https://github.com/octo-linker/chrome-extension"><img alt="Supports Chrome" title="Chrome" src="icons/Chrome.png" width="16"></a> - Allows you to navigate across files and packages on GitHub.com with ease.
