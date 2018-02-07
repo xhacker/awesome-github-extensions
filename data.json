@@ -78,6 +78,13 @@
                 "support_enterprise": false
             },
             {
+                "name": "Github vscode-icons",
+                "description": "Show vscode-icons in the repository browser.,
+                "url": "https://github.com/dderevjanik/github-vscode-icons",
+                "browsers": ["Chrome"],
+                "support_enterprise": true
+            },
+            {
                 "name": "GitHub Highlight Selected",
                 "description": "Chrome extension for highlighting selected word in GitHub source view like Sublime Text.",
                 "url": "https://github.com/Nuclides/github-highlight-selected",
