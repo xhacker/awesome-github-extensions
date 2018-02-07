@@ -79,7 +79,7 @@
             },
             {
                 "name": "Github vscode-icons",
-                "description": "Show vscode-icons in the repository browser.,
+                "description": "Show vscode-icons in the repository browser.",
                 "url": "https://github.com/dderevjanik/github-vscode-icons",
                 "browsers": ["Chrome"],
                 "support_enterprise": true
