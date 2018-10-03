@@ -94,8 +94,8 @@
             {
                 "name": "Sourcegraph",
                 "description": "Instant documentation tooltips and jump-to-definition links for code on GitHub.",
-                "url": "https://chrome.google.com/webstore/detail/sourcegraph/dgjhfomjieaadpoljlnidmbgkdffpack",
-                "browsers": ["Chrome"],
+                "url": "https://github.com/sourcegraph/browser-extensions",
+                "browsers": ["Chrome", "Firefox"],
                 "support_enterprise": false
             },
             {
