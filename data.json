@@ -85,9 +85,9 @@
                 "support_enterprise": false
             },
             {
-                "name": "CodeWyng",
-                "description": "Lightning fast code navigation for GitHub.",
-                "url": "https://github.com/CodeWyng/codewyng",
+                "name": "CodeWing",
+                "description": "Next level code navigation for GitHub.",
+                "url": "https://github.com/codewing-dev/codewing",
                 "browsers": ["Chrome"],
                 "support_enterprise": false
             },
