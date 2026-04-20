@@ -85,6 +85,13 @@
                 "support_enterprise": false
             },
             {
+                "name": "CodeWing",
+                "description": "Next level code navigation for GitHub.",
+                "url": "https://github.com/codewing-dev/codewing",
+                "browsers": ["Chrome"],
+                "support_enterprise": false
+            },
+            {
                 "name": "Octo-Linker",
                 "description": "Allows you to navigate across files and packages on GitHub.com with ease.",
                 "url": "https://github.com/octo-linker/chrome-extension",
