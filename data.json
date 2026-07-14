@@ -52,10 +52,31 @@
                 "support_enterprise": false
             },
             {
+                "name": "GitHub Toggle All Details",
+                "description": "One-click toggle for all collapsible `<details>` elements in GitHub PR and issue comments. Built for Atlantis, Terraform, and GitHub Actions output.",
+                "url": "https://github.com/GeiserX/github-toggle-all-details",
+                "browsers": ["Chrome", "Firefox"],
+                "support_enterprise": false
+            },
+            {
                 "name": "GitHub Custom Emojis",
                 "description": "This userscript allows you to use and add custom emojis to GitHub.",
                 "url": "https://github.com/StylishThemes/GitHub-Custom-Emojis",
                 "browsers": ["Userscript"],
+                "support_enterprise": false
+            },
+            {
+                "name": "PR Radar",
+                "description": "Unified PR dashboard showing CI status, unresolved comments, review state, and deployment status, with desktop/sound notifications. No tab required; polls in the background.",
+                "url": "https://github.com/deployhq/pr-radar",
+                "browsers": ["Chrome", "Firefox"],
+                "support_enterprise": false
+            },
+            {
+                "name": "PrepPush",
+                "description": "Auto-documents accepted HackerRank solutions to your GitHub repository with AI complexity notes.",
+                "url": "https://github.com/tridibbanik17/PrepPush",
+                "browsers": ["Chrome"],
                 "support_enterprise": false
             }
         ]
