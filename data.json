@@ -57,6 +57,13 @@
                 "url": "https://github.com/StylishThemes/GitHub-Custom-Emojis",
                 "browsers": ["Userscript"],
                 "support_enterprise": false
+            },
+            {
+                "name": "patchtree",
+                "description": "Turns raw .diff / .patch URLs into a full code review UI with real tree-sitter syntax highlighting.",
+                "url": "https://github.com/danilrwx/patchtree",
+                "browsers": ["Chrome", "Firefox"],
+                "support_enterprise": false
             }
         ]
     },
